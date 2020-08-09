@@ -1,0 +1,12 @@
+C:\Users\mouss\Desktop\QR reader\QR reader\bin\Debug\QR reader.exe.config
+C:\Users\mouss\Desktop\QR reader\QR reader\bin\Debug\QR reader.exe
+C:\Users\mouss\Desktop\QR reader\QR reader\bin\Debug\QR reader.pdb
+C:\Users\mouss\Desktop\QR reader\QR reader\obj\Debug\QR reader.csprojAssemblyReference.cache
+C:\Users\mouss\Desktop\QR reader\QR reader\obj\Debug\QR_reader.Form1.resources
+C:\Users\mouss\Desktop\QR reader\QR reader\obj\Debug\QR_reader.Properties.Resources.resources
+C:\Users\mouss\Desktop\QR reader\QR reader\obj\Debug\QR reader.csproj.GenerateResource.cache
+C:\Users\mouss\Desktop\QR reader\QR reader\obj\Debug\QR reader.csproj.CoreCompileInputs.cache
+C:\Users\mouss\Desktop\QR reader\QR reader\obj\Debug\QR reader.exe
+C:\Users\mouss\Desktop\QR reader\QR reader\obj\Debug\QR reader.pdb
+C:\Users\mouss\Desktop\QR reader\QR reader\bin\Debug\MessagingToolkit.QRCode.dll
+C:\Users\mouss\Desktop\QR reader\QR reader\obj\Debug\QR reader.csproj.CopyComplete
