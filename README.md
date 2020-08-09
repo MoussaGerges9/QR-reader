@@ -1,3 +1,3 @@
 # QR reader
 
-Barcode QR reader using MessagingToolkit packages, C# windows application reads QR code from images
+QR Code reader using MessagingToolkit packages, C# windows application reads QR code from images
